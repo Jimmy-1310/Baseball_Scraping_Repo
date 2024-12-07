@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #Add config file
+=======
+#config files
+
+>>>>>>> 7ed4cdb54dc5178e21fd2a55ed4ddf7020847a49
 config.py
 PROD_ENV/config.py
 
