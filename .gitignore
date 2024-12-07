@@ -1,6 +1,7 @@
 #config files
 
 config.py
+PROD_ENV/config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
