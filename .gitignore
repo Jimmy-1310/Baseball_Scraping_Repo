@@ -1,3 +1,7 @@
+#Add config file
+config.py
+PROD_ENV/config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
